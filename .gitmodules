@@ -1,3 +1,6 @@
 [submodule "cse115A"]
 	path = cse115A
 	url = https://github.com/kpistor2022/cse115A.git
+[submodule "ua_project"]
+	path = ua_project
+	url = https://github.com/haitranho/ua_project.git
